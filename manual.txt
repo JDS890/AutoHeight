@@ -1,0 +1,9 @@
+# Loading OBJs
+Load OBJs using the GUI.
+Expand treeview OBJs to view their objects and groups.
+All treeview meshes are used in height calculations, unless hidden with the hide button.
+
+# Spreadsheet highlighting
+Highlight rows from adjacent XYZ columns, then press Ctrl + Alt + P.
+The bottom-right highlighted cell must be the active cell.
+The active cell is the highlighted cell entered if you break the selection by typing.
